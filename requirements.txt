@@ -1,0 +1,5 @@
+pypdf # to load PDFs
+langchain # framework for building apps using LLMs
+chromadb # vector storage
+pytest # python testing framework
+boto3 # AWS SDK for Python
